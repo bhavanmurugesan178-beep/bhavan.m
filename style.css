@@ -1,0 +1,42 @@
+.bady-container {
+  background-color: #ffffff;
+}
+
+.title-cantainer-1 {
+  color: #ae38c7;
+  text-align: center;
+}
+.title-cantainer-2 {
+  color: black;
+  text-align: center;
+}
+
+
+
+.img {
+  align-items: flex-start;
+}
+
+.a1 {
+  text-align: center;
+  color: green;
+  padding: 20px;
+  border-radius: 10px 20px 30px 40px;
+}
+
+.fff1 {
+  text-align: center;
+}
+
+.t100{
+    text-align: center;
+}
+
+.t99{
+    text-align: center;
+}
+.container {
+    font-size: x-large;
+    font-weight: bold;
+    color: #ae38c7;
+}

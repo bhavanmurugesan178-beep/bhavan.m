@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Indian Truck Models - AutoDrive</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-logo">
+        <a href="index.html">Auto<span>Drive</span></a>
+      </div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-trigger active"
+            >Vehicle <span class="arrow">▼</span></a
+          >
+          <ul class="dropdown-menu">
+            <li><a href="trucks.html">Truck</a></li>
+            <li><a href="#">Bus</a></li>
+            <li><a href="#">Mini Truck</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-trigger active"
+            >Model<span class="arrow">▼</span></a>
+
+          <ul class="dropdown-menu">
+            <li><a href="trucks.html">New model</a></li>
+            <li><a href="#">Old model</a></li>
+            <li><a href="#">Secand model</a></li>
+          </ul>
+
+        </li>
+        <li><a href="#">New Launches</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Help</a></li>
+      </ul>
+      <div class="nav-search">
+        <input type="text" placeholder="Search models, specs..." />
+        <button type="submit">Search</button>
+      </div>
+    </nav>
+
+    <header class="page-header">
+      <h1>Indian <span>Truck Models</span></h1>
+      <p>
+        Explore high-performance commercial vehicles engineered for Indian
+        terrains.
+      </p>
+    </header>
+
+
+    
+  </body>
+</html>
